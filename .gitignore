@@ -1,0 +1,14 @@
+.*.swp
+*.ogv
+*.mp4
+*.mp3
+*.opus
+*.wav
+*.jpeg
+*.jpg
+*.JPG
+*.png
+__pycache__
+ext
+cache
+nat_*
