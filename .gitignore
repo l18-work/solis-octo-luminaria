@@ -1,13 +1,16 @@
 .*.swp
+*.flv
 *.ogv
 *.mp4
 *.mp3
 *.opus
 *.wav
 *.jpeg
+*.JPEG
 *.jpg
 *.JPG
 *.png
+*.PNG
 __pycache__
 ext
 cache
